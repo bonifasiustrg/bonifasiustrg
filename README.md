@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Bonifasius Tarigan</h1>
 <h3 align="center">A student who is enthusiastic about learning many things in the IT field.</h3>
 
-<img align="right" alt="donut coding" width="400" src="https://i.imgur.com/0uCgIsw.gif">
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bonifasiustrg" alt="bonifasiustrg" /></a> </p>
+<img align="right" alt="donut coding" width="400" src="https://i.imgur.com/0uCgIsw.gif">
 
 - 🌱 I’m currently learning **Android Dev, Web Dev**
 
