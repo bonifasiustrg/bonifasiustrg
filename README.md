@@ -5,7 +5,7 @@
 
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bonifasiustrg" alt="bonifasiustrg" /></a> </p> <img align="right" alt="donut coding" width="400" src="https://i.imgur.com/0uCgIsw.gif">
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bonifasiustrg" alt="bonifasiustrg" /></a>
 
 - 🌱 I’m currently learning **Android Dev, Web Dev**
 
