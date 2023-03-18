@@ -1,14 +1,10 @@
 ![logo](https://github.com/bonifasiustrg/bonifasiustrg/blob/main/banner.png)
 
-<h1 align="center">Hi 👋, I'm Bonifasius Tarigan</h1>
-<h3 align="center">A student who is enthusiastic about learning many things in the IT field.</h3>
-
 <h1 align="center">Hello, there. I'm Bonifasius Tarigan.</h1>
 <h3 align="center">A passionate frontend I am an undergraduate student and tech enthusiast. Currently, I'm exploring the field of software development, specifically Android. In my free time, I have several times rummaged through custom OS from the internet, both on PC and Android.developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bonifasiustrg&label=Profile%20views&color=0e75b6&style=flat" alt="bonifasiustrg" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bonifasiustrg" alt="bonifasiustrg" /></a> </p>
 
 - 🌱 I’m currently learning **Android Dev and Backend Web**
 
@@ -41,5 +37,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bonifasiustrg&" alt="bonifasiustrg" /></p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bonifasiustrg" alt="bonifasiustrg" /></a> </p>
 
 [![An image of @bonifasiustrg's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/bonifasiustrg)](https://holopin.io/@bonifasiustrg)
