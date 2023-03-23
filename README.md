@@ -1,7 +1,7 @@
 ![logo](https://github.com/bonifasiustrg/bonifasiustrg/blob/main/banner.png)
 
 <h1 align="center">Hello, there. I'm Bonifasius Tarigan.</h1>
-<h3 align="center">A passionate frontend I am an undergraduate student and tech enthusiast. Currently, I'm exploring the field of software development, specifically Android. In my free time, I have several times rummaged through custom OS from the internet, both on PC and Android.developer from India</h3>
+<h3 align="center">I am an undergraduate student and tech enthusiast. Currently, I'm exploring the field of software development, specifically Android Development. In my free time, I have several times rummaged through custom ROM for Android and custom OS in my laptop from the internet.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bonifasiustrg&label=Profile%20views&color=0e75b6&style=flat" alt="bonifasiustrg" /> </p>
 
